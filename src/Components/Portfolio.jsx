@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Motion",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "SIH 2022 Finalist, Developed a ML based app to translate SIGN (ASL) to text/audio in live time. Used Machine Learning algorithms like HOG and SVM.",
+    url: "https://github.com/krishna050702",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Sarkari",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A hackathon project on Sustainable Urban Transport System, in this project the system gives the realtime information forthe transport system available on the route and suggest the best option.",
+    url: "https://github.com/krishna050702/Tester_Sarkari.github.io",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://krishna050702.github.io/Portfolio-React/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "BPRD | Website designing",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Secured rank under Top 5th Position all overIndia for designing website for BPRD in 2022. Tech used Figma",
+    url: "https://drive.google.com/file/d/10wUtjs0Ai7YkmzY3KhxRxDGDzG6STrwj/view",
   },
 ];
 
