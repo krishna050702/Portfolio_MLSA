@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/krishna050702/Portfolio_MLSA",
+  "homepage": "https://krishna050702.github.io/Portfolio_MLSA",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",

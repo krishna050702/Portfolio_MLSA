@@ -21,7 +21,7 @@ const Header = () => {
         zIndex: 10,
       }}
     >
-      <a href="#home" style={{color: "white"}}>Home</a>
+      <a href="#home" style={{color: "white"}}> Home </a>
       <a href="#about" style={{color: "white"}}>About</a>
       <a href="#portfolio" style={{color: "white"}}>Portfolio</a>
       <a href="#footer" style={{color: "white"}}>Contact</a>
